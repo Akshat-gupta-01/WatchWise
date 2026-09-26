@@ -1,4 +1,4 @@
-# CineAgent
+# WatchWise
 
 A conversational movie and show discovery assistant for an OTT-style catalog.
 You type how you feel, an LLM picks the right tools, the tools query the
